@@ -13,7 +13,7 @@ Download supplementary materials file [here](/files/SM.pdf)
 
 Download [figures of optimal strategies](/files/Figures.pdf)
 
-Download [Python code for figures](/files/code.zip)
+Download [Python code for figures](/files/code_b-d_09_05_2023.py)
 
 **Will Tests Lead to More Informed Antibiotics Use? An Application in Veterinarian Diagnostic Decisions.**
 
