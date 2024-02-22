@@ -4,7 +4,7 @@ title: "Conference Presentations"
 permalink: /Conference Presentations/
 author_profile: true
 ---
-## 2022 (Expected) 
+## 2022
 **Center for Behavioral and Experimental Agri-environmental Research 2022 Virtual Seminar Series**, “Will Tests Lead to More Informed Antibiotics Use?  An Application in Veterinarian Diagnostic Decisions” (with H. Feng*, D.A. Hennessy).
 ## 2021 
 **AERE Summer Conference**, “Will Tests Lead to More Informed Antibiotics Use?  An Application in Veterinarian Diagnostic Decisions” (with H. Feng, D.A. Hennessy).
