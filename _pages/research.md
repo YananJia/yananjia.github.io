@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 # Publication
-**Economics of Informed Antibiotic Management and Judicious Use Policies in Animal Agriculture”**. **Yanan Jia**, Hongli Feng, and David A. Hennessy. (Accepted *Environmental and Resource Economics*)
+**Jia, Y.**, Hennessy D.A. and Feng, H. 2024. **Economics of Informed Antibiotic Management and Judicious Use Policies in Animal Agriculture**. *Environmental and Resource Economics*, forthcoming. 
 
 ***Abstract*** Antibiotic effectiveness can be viewed as a biological commons since current use may decrease future effectiveness. The value of the biological commons declines when the targeted bacteria develop antibiotic resistance. Antibiotic resistance is a global threat to health and development, causing serious economic damage and loss of human lives. The greatest share of antibiotics is used in livestock production, leading to concerns that such use may threaten human health. While various policies are in place to promote judicious use of antibiotics, their effectiveness is unclear. One key challenge in antibiotics management is the uncertainty surrounding various decisions related to antibiotics use, including whether a suspect case has an infection, how likely an infection will spread, and how effective antibiotics can be if used. We develop a disease management model that incorporates linkages among diagnostic testing decisions, antibiotic use decisions, and alternative treatment costs. We show that many unintended consequences may arise from policies designed to promote judicious antibiotic use. Antibiotics and self-tests are complements (substitutes) whenever antibiotic cost is high (low), implying that a self-test subsidy can plausibly increase expected antibiotic use. With regard to a prescription regulation (PR) that switches an antibiotic from over-the-counter to prescription, we show that while PR can reduce therapeutic antibiotic use as intended it may not achieve the social optimum. In a simple real-world application, we find that PR induces excessive veterinary service demand but does not reduce antibiotic use among typical U.S. dairy farms. PR also leads to the substitution of veterinary services for self-tests in obtaining information. We discuss how our analytical framework can be applied to other contexts, including antibiotics for human use.
 
@@ -14,7 +14,11 @@ Download [supplementary materials file](/files/Revised_supplementary_materials.p
 Download [Python code for figures](/files/Python_code.zip)
 
 
-David A. Hennessy and **Yanan Jia**. Pest Susceptibility Commons in Agriculture. *Agricultural Policy Review*, Winter 2024. Center for Agricultural and Rural Development, Iowa State University. Available at: https://agpolicyreview.card.iastate.edu/winter-2024/pest-susceptibility-commons-agriculture.
+Hennessy, D.A. and **Jia, Y.**. 2024. **Pest Susceptibility Commons in Agriculture**. *Agricultural Policy Review*, Winter 2024. Center for Agricultural and Rural Development, Iowa State University. Available at: https://agpolicyreview.card.iastate.edu/winter-2024/pest-susceptibility-commons-agriculture.
+
+
+
+Feng, H., D.A. Hennessy, **Y. Jia**, M. G.S. McKendree, and C. Wolf. 2018. **Dairy Sector Consolidation, Scale, Automation and Factor Biased Technical Change: Working through ‘Get Big or Get Out’**. *Choices*, 33(4th Quarter 2018), 8 pages.
 
 # Working paper
 **Will Tests Lead to More Informed Antibiotics Use? An Application in Veterinarian Diagnostic Decisions.**
