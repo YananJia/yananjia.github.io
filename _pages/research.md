@@ -14,6 +14,8 @@ Download [supplementary materials file](/files/Revised_supplementary_materials.p
 Download [Python code for figures](/files/Python_code.zip)
 
 
+David A. Hennessy and **Yanan Jia**. Pest Susceptibility Commons in Agriculture. *Agricultural Policy Review*, Winter 2024. Center for Agricultural and Rural Development, Iowa State University. Available at: https://agpolicyreview.card.iastate.edu/winter-2024/pest-susceptibility-commons-agriculture.
+
 # Working paper
 **Will Tests Lead to More Informed Antibiotics Use? An Application in Veterinarian Diagnostic Decisions.**
 
@@ -30,4 +32,4 @@ Download [Python code for figures](/files/Python_code.zip)
 ***Abstract*** Global milk production has undergone drastic change in recent years. Smaller farms have been under severe stress, squeezed between low milk prices and high feed prices. The resulting shakeout has led to high exit rates among smaller farms. However, overall production has expanded modestly as a few larger farms have taken advantage of scale economies to expand sharply. Animal agriculture sector structure is both very important and poorly understood as a factor in determining how the sector links with society at large, including consequences for One Health outcomes. In this project, we conducted a survey to ask about antibiotic usage patterns in three U.S. Great Lakes Region states (Wisconsin, Minnesota, Michigan) and explore how ongoing structural changes in the dairy sector affect the aggregate antibiotic use. Among farms which use antibiotics, the growing larger farms seem to be more efficient at antibiotic management. However, larger farms are less likely to be operated without antibiotics. Also, farms which have expanded in recent years or intend to expand in the near future, are more likely to use antibiotics for therapeutic purposes (i.e., non-organic farms). Therefore, to determine the aggregate effect of current structural changes in the dairy sector, future research is warranted.
 
 # Reports and Popular Press
-"Dairy Sector Consolidation, Scale, Automation and Factor Biased Technical Change: Working through ‘Get Big or Get Out’." Feng, H., D.A. Hennessy, **Y. Jia**, M. G.S. McKendree, and C. Wolf. *Choices*, 33(4th Quarter 2018), 8 pages.
+Feng, H., D.A. Hennessy, **Y. Jia**, M. G.S. McKendree, and C. Wolf. 2018. Dairy Sector Consolidation, Scale, Automation and Factor Biased Technical Change: Working through ‘Get Big or Get Out’. *Choices*, 33(4th Quarter 2018), 8 pages.
