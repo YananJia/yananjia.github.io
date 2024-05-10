@@ -17,7 +17,6 @@ Download [Python code for figures](/files/Python_code.zip)
 Hennessy, D.A. and **Jia, Y.**. 2024. **Pest Susceptibility Commons in Agriculture**. *Agricultural Policy Review*, Winter 2024. Center for Agricultural and Rural Development, Iowa State University. Available at: https://agpolicyreview.card.iastate.edu/winter-2024/pest-susceptibility-commons-agriculture.
 
 
-
 Feng, H., D.A. Hennessy, **Y. Jia**, M. G.S. McKendree, and C. Wolf. 2018. **Dairy Sector Consolidation, Scale, Automation and Factor Biased Technical Change: Working through ‘Get Big or Get Out’**. *Choices*, 33(4th Quarter 2018), 8 pages.
 
 # Working paper
